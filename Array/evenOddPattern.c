@@ -1,5 +1,6 @@
 
-// Given and array of intger change the value of all odd index element to its second multiple and increment all even 
+// Given and array of intger change the value of all odd index 
+// element to its second multiple and increment all even 
 // indexed value bye 10
 
 #include<stdio.h>
