@@ -11,5 +11,5 @@ int main()
     }else{
         printf("Number = %d",n);
     }
-    return 0;
+    return 0;
 }
