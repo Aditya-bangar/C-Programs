@@ -22,7 +22,6 @@ int main()
         }
         if(count==2)
         printf("%3d",num[i]);
-    }
-
+    }
 
 }

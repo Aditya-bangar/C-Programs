@@ -26,5 +26,6 @@ int main()
         }
         if(count==0)
         printf("%3d",num[i]);
-    }
+    }
+
 }

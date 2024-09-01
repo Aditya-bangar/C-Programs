@@ -32,7 +32,7 @@ int main()
         total_sal = sal + Home_Allowance + Food_Allowance;
         if (total_sal >= 40000)
         {
-            total_sal = sal + Home_Allowance  Food_Allowance;
+            total_sal = sal + Home_Allowance + Food_Allowance;
             tax = total_sal *0.1;
             printf("Total Salary:%d \n", total_sal);
             printf("Your tax is %f", tax);
